@@ -1,4 +1,4 @@
-# Netflix-GPT 
+# NetflixGPT 
 
 Explore a new dimension of personalized entertainment with Netflix-GPT, a streaming service powered by OpenAI's technology. This platform delivers uniquely customized movie and TV show recommendations that align with your individual tastes.
 
